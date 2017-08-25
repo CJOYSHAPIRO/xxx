@@ -31,7 +31,9 @@
     },
     "versionFirst": "4.2.0",
     "uniqCompNum": 18,
-    "versionPublish": "4.2.0"
+    "versionPublish": "4.2.0",
+    "favicon": "@PROJECT_PATH@/assets/images/qq7dxifb-400x400-128x128.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
